@@ -1,0 +1,297 @@
+th_dataset_id	disease	age_at_dx	pedaya	sex	study_donor_id	study_dataset_id	study_id	organism
+THR14_1180_S01	glioma	20.1	Yes, age < 30 years	male	C466170	7316-2140-T, aliquot 470436, cohort CPF1601003	THR14	Homo sapiens
+THR14_1181_S01	medulloblastoma	10.2	Yes, age < 30 years	female	C67527	7316-219-T, aliquot 225347.2253	THR14	Homo sapiens
+THR14_1182_S01	medulloblastoma	11.6	Yes, age < 30 years	female	C58548	7316-135-T, aliquot 116304.116311.116318	THR14	Homo sapiens
+THR14_1183_S01	ependymoma	5.7	Yes, age < 30 years	male	C114267	7316-1480-T, aliquot 470425, cohort CPF1601003	THR14	Homo sapiens
+THR14_1184_S01	ependymoma	11.5	Yes, age < 30 years	male	C21771	7316-3-T, aliquot 470422, cohort CPF1601003	THR14	Homo sapiens
+THR14_1185_S01	primitive neuroectodermal tumor of the central nervous system	1.3	Yes, age < 30 years	male	C114513	7316-529-T, aliquot 470022, cohort CPF1601002	THR14	Homo sapiens
+THR14_1186_S01	ependymoma	17.2	Yes, age < 30 years	female	C385482	7316-659-T, aliquot 470424, cohort CPF1601003	THR14	Homo sapiens
+THR14_1188_S01	ependymoma	7.9	Yes, age < 30 years	female	C105903	7316-423-T, aliquot 470419, cohort CPF1601003	THR14	Homo sapiens
+THR14_1189_S01	ependymoma	8.3	Yes, age < 30 years	female	C657435	7316-425-T, aliquot 470441, cohort CPF1601003	THR14	Homo sapiens
+TH01_0119_S01	leukemia/lymphoma	13	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+THR14_1190_S01	ependymoma	8.2	Yes, age < 30 years	male	C122508	7316-532-T, aliquot 470434, cohort CPF1601003	THR14	Homo sapiens
+THR14_1191_S01	ependymoma	12.4	Yes, age < 30 years	female	C30381	7316-111-T, aliquot 470423, cohort CPF1601003	THR14	Homo sapiens
+THR14_1192_S01	ependymoma	18.4	Yes, age < 30 years	male	C20172	7316-292-T, aliquot 470438, cohort CPF1601003	THR14	Homo sapiens
+THR14_1193_S01	NA	15.1	Yes, age < 30 years	male	C70356	7316-334-T, aliquot 470437, cohort CPF1601003	THR14	Homo sapiens
+THR14_1194_S01	glioma	11.6	Yes, age < 30 years	male	C54858	7316-1844-T, aliquot 470026, cohort CPF1601002	THR14	Homo sapiens
+THR14_1195_S01	glioma	19.4	Yes, age < 30 years	male	C312912	7316-1893-T, aliquot 470029, cohort CPF1601002	THR14	Homo sapiens
+THR14_1196_S01	primitive neuroectodermal tumor of the central nervous system	12.2	Yes, age < 30 years	female	C292125	7316-1102-T, aliquot 470031, cohort CPF1601002	THR14	Homo sapiens
+THR14_1197_S01	primitive neuroectodermal tumor of the central nervous system	14.9	Yes, age < 30 years	male	C334314	7316-1105-T, aliquot 470017, cohort CPF1601002	THR14	Homo sapiens
+THR14_1198_S01	glioma	5.2	Yes, age < 30 years	female	C15498	7316-1464-T, aliquot 470021, cohort CPF1601002	THR14	Homo sapiens
+THR14_1199_S01	glioma	12	Yes, age < 30 years	female	C97416	7316-1723-T, aliquot 470023, cohort CPF1601002	THR14	Homo sapiens
+THR14_1199_S02	glioma	12	Yes, age < 30 years	female	C97416	7316-430-T, aliquot 470019, cohort CPF1601002	THR14	Homo sapiens
+TH01_0120_S01	acute myeloid leukemia	14	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+THR14_1200_S01	glioma	18.5	Yes, age < 30 years	male	C291756	7316-1099-T, aliquot 470025, cohort CPF1601002	THR14	Homo sapiens
+THR14_1201_S01	glioma	12.3	Yes, age < 30 years	male	C124353	7316-714-T, aliquot 470018, cohort CPF1601002	THR14	Homo sapiens
+THR14_1202_S01	glioma	4.1	Yes, age < 30 years	female	C271092	7316-895-T, aliquot 470020, cohort CPF1601002	THR14	Homo sapiens
+THR14_1203_S01	primitive neuroectodermal tumor of the central nervous system	14.1	Yes, age < 30 years	male	C135792	7316-1473-T, aliquot 470024, cohort CPF1601002	THR14	Homo sapiens
+THR14_1204_S01	glioma	14.5	Yes, age < 30 years	male	C103935	7316-1694-T, aliquot 470027, cohort CPF1601002	THR14	Homo sapiens
+THR14_1206_S01	glioma	18.3	Yes, age < 30 years	female	C60393	7316-212-T, aliquot 470016, cohort CPF1601002	THR14	Homo sapiens
+THR14_1208_S01	gliomatosis cerebri	7.3	Yes, age < 30 years	male	C16359	7316-71-T, aliquot 470015, cohort CPF1601002	THR14	Homo sapiens
+THR14_1209_S01	ependymoma	1.3	Yes, age < 30 years	male	C139851	7316-736-T, aliquot 470432, cohort CPF1601003	THR14	Homo sapiens
+TH01_0121_S01	acute lymphoblastic leukemia	10	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+THR14_1210_S01	dysembryoplastic neuroepithelial tumor	3.5	Yes, age < 30 years	female	C300981	7316-740-T, aliquot 470429, cohort CPF1601003	THR14	Homo sapiens
+THR14_1211_S01	ependymoma	2.1	Yes, age < 30 years	female	C132717	7316-764-T, aliquot 470427, cohort CPF1601003	THR14	Homo sapiens
+THR14_1212_S01	ependymoma	16.7	Yes, age < 30 years	female	C475764	7316-1799-T, aliquot 470428, cohort CPF1601003	THR14	Homo sapiens
+THR14_1213_S01	medulloblastoma	14	Yes, age < 30 years	male	C413034	7316-2009-T, aliquot 470439, cohort CPF1601003	THR14	Homo sapiens
+THR14_1214_S01	ependymoma	15.3	Yes, age < 30 years	unknown	C173676	7316-1214-T, aliquot 470430, cohort CPF1601003	THR14	Homo sapiens
+THR14_1215_S01	ependymoma	11.7	Yes, age < 30 years	unknown	C170601	7316-1252-T, aliquot 470433, cohort CPF1601003	THR14	Homo sapiens
+THR14_1216_S01	ependymoma	9	Yes, age < 30 years	unknown	C169125	7316-1279-T, aliquot 470420, cohort CPF1601003	THR14	Homo sapiens
+THR14_1217_S01	ependymoma	15.3	Yes, age < 30 years	male	C132594	7316-765-T, aliquot 470731, cohort CPF1601003	THR14	Homo sapiens
+THR14_1218_S01	ependymoma	10.7	Yes, age < 30 years	male	C131118	7316-775-T, aliquot 470421, cohort CPF1601003	THR14	Homo sapiens
+THR14_1219_S01	ependymoma	6.5	Yes, age < 30 years	male	C138990	7316-872-T, aliquot 470435, cohort CPF1601003	THR14	Homo sapiens
+TH01_0122_S01	acute lymphoblastic leukemia	10	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+THR14_1220_S01	primitive neuroectodermal tumor of the central nervous system	4	Yes, age < 30 years	female	C291879	7316-1100-T, aliquot 470028, cohort CPF1601002	THR14	Homo sapiens
+THR14_1221_S01	ependymoma	11.5	Yes, age < 30 years	male	C34440	7316-130-T, aliquot 470440, cohort CPF1601003	THR14	Homo sapiens
+THR14_1222_S01	ependymoma	5	Yes, age < 30 years	female	C46494	7316-189-T, aliquot 470426, cohort CPF1601003	THR14	Homo sapiens
+THR14_1223_S01	ependymoma	9.6	Yes, age < 30 years	male	C132963	7316-762-T, aliquot 471264, cohort CPF1601003	THR14	Homo sapiens
+THR14_1229_S01	medulloblastoma	13.8	Yes, age < 30 years	male	C19803	7316-14-T, aliquot 8711	THR14	Homo sapiens
+TH01_0123_S01	acute lymphoblastic leukemia	5	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+THR14_1231_S01	medulloblastoma	3.8	Yes, age < 30 years	female	C21402	7316-302-T, aliquot 233109	THR14	Homo sapiens
+THR14_1232_S01	medulloblastoma	11.6	Yes, age < 30 years	male	C28905	7316-109-T, aliquot 104702.1047	THR14	Homo sapiens
+THR14_1233_S01	medulloblastoma	12	Yes, age < 30 years	male	C52890	7316-1460-T, aliquot 357618	THR14	Homo sapiens
+THR14_1234_S01	medulloblastoma	3.4	Yes, age < 30 years	female	C39729	7316-178-T, aliquot 169902.251874.169909	THR14	Homo sapiens
+THR14_1235_S01	medulloblastoma	15.2	Yes, age < 30 years	female	C25830	7316-278-T, aliquot 257637	THR14	Homo sapiens
+THR14_1236_S01	medulloblastoma	15.4	Yes, age < 30 years	female	C56211	7316-968-T, aliquot 348781, batch CPF1504009	THR14	Homo sapiens
+THR14_1236_S02	medulloblastoma	15.4	Yes, age < 30 years	female	C56211	7316-1884-T, aliquot 373280, batch CPF1504009	THR14	Homo sapiens
+THR14_1237_S01	glioma	4.7	Yes, age < 30 years	female	C42435	7316-238-T, aliquot 232096, batch CPF1504009	THR14	Homo sapiens
+TH01_0124_S01	acute lymphoblastic leukemia	6	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0125_S01	acute lymphoblastic leukemia	0.58	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0126_S01	acute lymphoblastic leukemia	13	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0127_S01	acute lymphoblastic leukemia	8	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0128_S01	acute lymphoblastic leukemia	6.2	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0129_S01	acute lymphoblastic leukemia	10	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0130_S01	acute lymphoblastic leukemia	7	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH38_1309_S01	alveolar rhabdomyosarcoma	15	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH01_0131_S01	acute lymphoblastic leukemia	17	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH38_1310_S01	neuroblastoma	6	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1313_S01	glioma	0.5	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1315_S01	medulloblastoma	15	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1316_S01	glioma	4	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1317_S01	glioblastoma multiforme	8	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1318_S01	glioma	5	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1319_S01	Ewing sarcoma	6	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH01_0132_S01	acute myeloid leukemia	3.5	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH38_1320_S01	glioma	3	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1321_S01	glioblastoma multiforme	5	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1322_S01	glioblastoma multiforme	17	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1323_S01	glioma	13	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1324_S01	dysembryoplastic neuroepithelial tumor	8	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1325_S01	chordoma	10	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1326_S01	glioma	5	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1327_S01	atypical teratoid/rhabdoid tumor	1.75	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1328_S01	glioblastoma multiforme	2	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1329_S01	ependymoma	15	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH01_0133_S01	acute lymphoblastic leukemia	5	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH38_1330_S01	acute myeloid leukemia	2	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1331_S01	primitive neuroectodermal tumor of the central nervous system	16	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1333_S01	glioma, diffuse glioma	10	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1334_S01	dysembryoplastic neuroepithelial tumor	16	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1335_S01	NA	14	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1335_S02	NA	14	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1337_S01	glioma	3	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1338_S02	choroid plexus carcinoma	3	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1338_S03	choroid plexus carcinoma	3	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1339_S01	NA	24	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH01_0134_S01	acute lymphoblastic leukemia	21	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH38_1340_S02	primitive neuroectodermal tumor of the central nervous system	12	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1341_S01	glioma	4	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1341_S02	glioma	4	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1342_S01	glioma	10	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1344_S02	glioma	13	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1345_S01	gliomatosis cerebri	17	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH01_0135_S01	lymphoma	16	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH38_1416_S01	osteosarcoma	22	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1417_S01	ependymoma	10	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1418_S01	lymphoma	4	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1420_S01	myofibroblastoma	15	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1421_S01	neuroblastoma	2	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1422_S01	glioma	7	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1423_S01	sarcoma	1.33	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1424_S01	choroid plexus carcinoma	2	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1425_S01	sarcoma	1.66	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1426_S01	choroid plexus carcinoma	4	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1427_S01	pineoblastoma	NA	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1427_S02	pineoblastoma	NA	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1428_S01	primitive neuroectodermal tumor of the central nervous system	0.83	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1429_S01	medulloblastoma	3	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1430_S01	medulloblastoma	8	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1431_S01	glioma	21	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1432_S01	choroid plexus carcinoma	1.75	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1433_S01	sarcoma	15	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1434_S01	wilms tumor	4	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1435_S01	wilms tumor	4	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1435_S02	wilms tumor	4	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1436_S01	sarcoma	16	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1437_S01	medulloblastoma	11	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1437_S02	medulloblastoma	11	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1438_S01	myofibromatosis	0.06	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1439_S01	Ewing sarcoma	11	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1440_S01	clear cell adenocarcinoma NOS	17	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1441_S01	pituitary adenoma	14	Yes, age < 30 years	female	N/A	N/A	TH38	Homo sapiens
+TH38_1442_S01	acute lymphoblastic leukemia	12	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1442_S02	acute lymphoblastic leukemia	12	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+TH38_1443_S01	neuroendocrine carcinoma	17	Yes, age < 30 years	male	N/A	N/A	TH38	Homo sapiens
+THR12_0277_S01	fibrolamellar hepatocellular carcinoma	NA	Unknown	NA	Subject_101	Sample_102 SRR1267597	THR12	Homo sapiens
+THR12_0278_S01	fibrolamellar hepatocellular carcinoma	NA	Unknown	NA	Subject_102	Sample_103 SRR1267598	THR12	Homo sapiens
+THR12_0278_S03	fibrolamellar hepatocellular carcinoma	NA	Unknown	NA	Subject_102	Sample_105 SRR1267600	THR12	Homo sapiens
+THR12_0279_S01	fibrolamellar hepatocellular carcinoma	NA	Unknown	NA	Subject_105	Sample_118 SRR1267611	THR12	Homo sapiens
+THR12_0280_S01	fibrolamellar hepatocellular carcinoma	NA	Unknown	NA	Subject_110	Sample_128 SRR1267619	THR12	Homo sapiens
+THR12_0280_S03	fibrolamellar hepatocellular carcinoma	NA	Unknown	NA	Subject_110	Sample_130 SRR1267621	THR12	Homo sapiens
+THR12_0280_S04	fibrolamellar hepatocellular carcinoma	NA	Unknown	NA	Subject_110	Sample_131 SRR1267622	THR12	Homo sapiens
+THR12_0281_S01	fibrolamellar hepatocellular carcinoma	NA	Unknown	NA	Subject_111	Sample_132 SRR1267623	THR12	Homo sapiens
+THR12_0282_S01	fibrolamellar hepatocellular carcinoma	NA	Unknown	NA	Subject_113	Sample_136 SRR1267625	THR12	Homo sapiens
+THR14_0310_S02	glioma	15.4	Yes, age < 30 years	male	C88806	7316-1769-T, aliquot 470030, cohort CPF1601002	THR14	Homo sapiens
+THR12_0365_S01	fibrolamellar hepatocellular carcinoma	NA	Unknown	unknown	Subject_103	Sample_106 SRR1267601	THR12	Homo sapiens
+THR12_0365_S02	fibrolamellar hepatocellular carcinoma	NA	Unknown	unknown	Subject_103	Sample_107 SRR1267602	THR12	Homo sapiens
+THR12_0365_S03	fibrolamellar hepatocellular carcinoma	NA	Unknown	unknown	Subject_103	Sample_108 SRR1267603	THR12	Homo sapiens
+THR12_0365_S04	fibrolamellar hepatocellular carcinoma	NA	Unknown	unknown	Subject_103	Sample_109 SRR1267604	THR12	Homo sapiens
+THR12_0365_S06	fibrolamellar hepatocellular carcinoma	NA	Unknown	unknown	Subject_103	Sample_111 SRR1267606	THR12	Homo sapiens
+THR12_0366_S02	fibrolamellar hepatocellular carcinoma	NA	Unknown	unknown	Subject_104	Sample_113 SRR1267608	THR12	Homo sapiens
+THR12_0366_S03	fibrolamellar hepatocellular carcinoma	NA	Unknown	unknown	Subject_104	Sample_114 SRR1267609	THR12	Homo sapiens
+THR12_0366_S04	fibrolamellar hepatocellular carcinoma	NA	Unknown	unknown	Subject_104	Sample_115 SRR1267610	THR12	Homo sapiens
+THR12_0368_S01	fibrolamellar hepatocellular carcinoma	NA	Unknown	unknown	Subject_107	Sample_122 SRR1267613	THR12	Homo sapiens
+THR12_0369_S01	fibrolamellar hepatocellular carcinoma	NA	Unknown	unknown	Subject_108	Sample_124 SRR1267615	THR12	Homo sapiens
+THR12_0370_S01	fibrolamellar hepatocellular carcinoma	NA	Unknown	unknown	Subject_109	Sample_126 SRR1267617	THR12	Homo sapiens
+THR19_0410_S01	glioma	1	Yes, age < 30 years	female	icgc/_EGAR00001124498_RNA-seq_PAIRED_ICGC_PA100_s_120626_2b	EGAR00001124498_RNA-seq_PAIRED_ICGC_PA100_s_120626_2b	THR19	Homo sapiens
+THR19_0411_S01	glioma	15	Yes, age < 30 years	male	icgc/_EGAR00001124499_RNA-seq_PAIRED_ICGC_PA102_s_120626_5a	EGAR00001124499_RNA-seq_PAIRED_ICGC_PA102_s_120626_5a	THR19	Homo sapiens
+THR19_0412_S01	glioma	7	Yes, age < 30 years	male	icgc/_EGAR00001124500_RNA-seq_PAIRED_ICGC_PA103_s_120626_3a	EGAR00001124500_RNA-seq_PAIRED_ICGC_PA103_s_120626_3a	THR19	Homo sapiens
+THR19_0413_S01	glioma	13	Yes, age < 30 years	female	icgc/_EGAR00001124501_RNA-seq_PAIRED_ICGC_PA105_s_120626_7c	EGAR00001124501_RNA-seq_PAIRED_ICGC_PA105_s_120626_7c	THR19	Homo sapiens
+THR19_0414_S01	glioma	4	Yes, age < 30 years	female	icgc/_EGAR00001124502_RNA-seq_PAIRED_ICGC_PA107_s_120705_3b	EGAR00001124502_RNA-seq_PAIRED_ICGC_PA107_s_120705_3b	THR19	Homo sapiens
+THR19_0415_S01	glioma	5	Yes, age < 30 years	female	icgc/_EGAR00001124503_RNA-seq_PAIRED_ICGC_PA108_s_120705_4c	EGAR00001124503_RNA-seq_PAIRED_ICGC_PA108_s_120705_4c	THR19	Homo sapiens
+THR19_0416_S01	glioma	5	Yes, age < 30 years	female	icgc/_EGAR00001124504_RNA-seq_PAIRED_ICGC_PA109_s_120705_5c	EGAR00001124504_RNA-seq_PAIRED_ICGC_PA109_s_120705_5c	THR19	Homo sapiens
+THR19_0417_S01	glioma	12	Yes, age < 30 years	male	icgc/_EGAR00001124505_RNA-seq_PAIRED_ICGC_PA110_s_120705_6a	EGAR00001124505_RNA-seq_PAIRED_ICGC_PA110_s_120705_6a	THR19	Homo sapiens
+THR19_0418_S01	glioma	14	Yes, age < 30 years	male	icgc/_EGAR00001124506_RNA-seq_PAIRED_ICGC_PA112_s_120705_7b	EGAR00001124506_RNA-seq_PAIRED_ICGC_PA112_s_120705_7b	THR19	Homo sapiens
+THR19_0419_S01	glioma	50	Yes, age < 30 years	female	icgc/_EGAR00001124507_RNA-seq_PAIRED_ICGC_PA116_s_120705_5a	EGAR00001124507_RNA-seq_PAIRED_ICGC_PA116_s_120705_5a	THR19	Homo sapiens
+THR19_0420_S01	glioma	40	Yes, age < 30 years	female	icgc/_EGAR00001124508_RNA-seq_PAIRED_ICGC_PA117_s_120705_4b	EGAR00001124508_RNA-seq_PAIRED_ICGC_PA117_s_120705_4b	THR19	Homo sapiens
+THR19_0421_S01	glioma	11	Yes, age < 30 years	female	icgc/_EGAR00001124509_RNA-seq_PAIRED_ICGC_PA11_s_120816_5a	EGAR00001124509_RNA-seq_PAIRED_ICGC_PA11_s_120816_5a	THR19	Homo sapiens
+THR19_0422_S01	glioma	7	Yes, age < 30 years	male	icgc/_EGAR00001124510_RNA-seq_PAIRED_ICGC_PA134_s_120816_2b	EGAR00001124510_RNA-seq_PAIRED_ICGC_PA134_s_120816_2b	THR19	Homo sapiens
+THR19_0423_S01	glioma	3	Yes, age < 30 years	male	icgc/_EGAR00001124511_RNA-seq_PAIRED_ICGC_PA135_s_120816_2a	EGAR00001124511_RNA-seq_PAIRED_ICGC_PA135_s_120816_2a	THR19	Homo sapiens
+THR19_0424_S01	glioma	14	Yes, age < 30 years	female	icgc/_EGAR00001124512_RNA-seq_PAIRED_ICGC_PA136_s_120816_2c	EGAR00001124512_RNA-seq_PAIRED_ICGC_PA136_s_120816_2c	THR19	Homo sapiens
+THR19_0425_S01	glioma	11	Yes, age < 30 years	female	icgc/_EGAR00001124513_RNA-seq_PAIRED_ICGC_PA138_s_120816_3b	EGAR00001124513_RNA-seq_PAIRED_ICGC_PA138_s_120816_3b	THR19	Homo sapiens
+THR19_0426_S01	glioma	10	Yes, age < 30 years	female	icgc/_EGAR00001124514_RNA-seq_PAIRED_ICGC_PA140_s_120816_1b	EGAR00001124514_RNA-seq_PAIRED_ICGC_PA140_s_120816_1b	THR19	Homo sapiens
+THR19_0427_S01	glioma	17	Yes, age < 30 years	female	icgc/_EGAR00001124516_RNA-seq_PAIRED_ICGC_PA143_s_120816_4c	EGAR00001124516_RNA-seq_PAIRED_ICGC_PA143_s_120816_4c	THR19	Homo sapiens
+THR19_0428_S01	glioma	2	Yes, age < 30 years	female	icgc/_EGAR00001124517_RNA-seq_PAIRED_ICGC_PA144_s_120925_1b	EGAR00001124517_RNA-seq_PAIRED_ICGC_PA144_s_120925_1b	THR19	Homo sapiens
+THR19_0429_S01	glioma	7	Yes, age < 30 years	female	icgc/_EGAR00001124518_RNA-seq_PAIRED_ICGC_PA145_s_120816_4a	EGAR00001124518_RNA-seq_PAIRED_ICGC_PA145_s_120816_4a	THR19	Homo sapiens
+THR19_0430_S01	glioma	12	Yes, age < 30 years	male	icgc/_EGAR00001124519_RNA-seq_PAIRED_ICGC_PA147_s_120816_5b	EGAR00001124519_RNA-seq_PAIRED_ICGC_PA147_s_120816_5b	THR19	Homo sapiens
+THR19_0431_S01	glioma	1	Yes, age < 30 years	male	icgc/_EGAR00001124520_RNA-seq_PAIRED_ICGC_PA148_s_120925_2b	EGAR00001124520_RNA-seq_PAIRED_ICGC_PA148_s_120925_2b	THR19	Homo sapiens
+THR19_0432_S01	glioma	5	Yes, age < 30 years	female	icgc/_EGAR00001124521_RNA-seq_PAIRED_ICGC_PA14_s_120816_5c	EGAR00001124521_RNA-seq_PAIRED_ICGC_PA14_s_120816_5c	THR19	Homo sapiens
+THR19_0433_S01	glioma	2	Yes, age < 30 years	male	icgc/_EGAR00001124522_RNA-seq_PAIRED_ICGC_PA150_s_120816_8a	EGAR00001124522_RNA-seq_PAIRED_ICGC_PA150_s_120816_8a	THR19	Homo sapiens
+THR19_0434_S01	glioma	11	Yes, age < 30 years	female	icgc/_EGAR00001124523_RNA-seq_PAIRED_ICGC_PA157_s_120925_1a	EGAR00001124523_RNA-seq_PAIRED_ICGC_PA157_s_120925_1a	THR19	Homo sapiens
+THR19_0435_S01	glioma	5	Yes, age < 30 years	female	icgc/_EGAR00001124524_RNA-seq_PAIRED_ICGC_PA158_s_120816_8c	EGAR00001124524_RNA-seq_PAIRED_ICGC_PA158_s_120816_8c	THR19	Homo sapiens
+THR19_0436_S01	glioma	5	Yes, age < 30 years	male	icgc/_EGAR00001124525_RNA-seq_PAIRED_ICGC_PA159_s_120816_3a	EGAR00001124525_RNA-seq_PAIRED_ICGC_PA159_s_120816_3a	THR19	Homo sapiens
+THR19_0437_S01	glioma	7	Yes, age < 30 years	male	icgc/_EGAR00001124526_RNA-seq_PAIRED_ICGC_PA162_s_120816_1c	EGAR00001124526_RNA-seq_PAIRED_ICGC_PA162_s_120816_1c	THR19	Homo sapiens
+THR19_0438_S01	glioma	29	Yes, age < 30 years	female	icgc/_EGAR00001124527_RNA-seq_PAIRED_ICGC_PA163_s_120925_2a	EGAR00001124527_RNA-seq_PAIRED_ICGC_PA163_s_120925_2a	THR19	Homo sapiens
+THR19_0439_S01	glioma	5	Yes, age < 30 years	male	icgc/_EGAR00001124528_RNA-seq_PAIRED_ICGC_PA165_s_120816_4b	EGAR00001124528_RNA-seq_PAIRED_ICGC_PA165_s_120816_4b	THR19	Homo sapiens
+THR19_0448_S01	glioma	1	Yes, age < 30 years	male	icgc/_EGAR00001124537_RNA-seq_PAIRED_ICGC_PA4_s_120816_4c	EGAR00001124537_RNA-seq_PAIRED_ICGC_PA4_s_120816_4c	THR19	Homo sapiens
+THR19_0464_S01	glioma	12	Yes, age < 30 years	male	icgc/_EGAR00001124553_RNA-seq_PAIRED_ICGC_PA82_s_120626_4b	EGAR00001124553_RNA-seq_PAIRED_ICGC_PA82_s_120626_4b	THR19	Homo sapiens
+THR19_0465_S01	glioma	8	Yes, age < 30 years	female	icgc/_EGAR00001124554_RNA-seq_PAIRED_ICGC_PA83_s_120626_1a	EGAR00001124554_RNA-seq_PAIRED_ICGC_PA83_s_120626_1a	THR19	Homo sapiens
+THR19_0468_S01	glioma	6	Yes, age < 30 years	female	icgc/_EGAR00001124561_RNA-seq_PAIRED_ICGC_PA88_s_120626_2c	EGAR00001124561_RNA-seq_PAIRED_ICGC_PA88_s_120626_2c	THR19	Homo sapiens
+THR19_0469_S01	glioma	8	Yes, age < 30 years	male	icgc/_EGAR00001124562_RNA-seq_PAIRED_ICGC_PA89_s_120626_4c	EGAR00001124562_RNA-seq_PAIRED_ICGC_PA89_s_120626_4c	THR19	Homo sapiens
+THR19_0470_S01	glioma	7	Yes, age < 30 years	female	icgc/_EGAR00001124563_RNA-seq_PAIRED_ICGC_PA8_s_120816_4b	EGAR00001124563_RNA-seq_PAIRED_ICGC_PA8_s_120816_4b	THR19	Homo sapiens
+THR19_0471_S01	glioma	3	Yes, age < 30 years	female	icgc/_EGAR00001124564_RNA-seq_PAIRED_ICGC_PA91_s_120626_3b	EGAR00001124564_RNA-seq_PAIRED_ICGC_PA91_s_120626_3b	THR19	Homo sapiens
+THR19_0472_S01	glioma	12	Yes, age < 30 years	male	icgc/_EGAR00001124565_RNA-seq_PAIRED_ICGC_PA92_s_120626_7a	EGAR00001124565_RNA-seq_PAIRED_ICGC_PA92_s_120626_7a	THR19	Homo sapiens
+THR19_0473_S01	glioma	21	Yes, age < 30 years	female	icgc/_EGAR00001124566_RNA-seq_PAIRED_ICGC_PA93_s_120626_6a	EGAR00001124566_RNA-seq_PAIRED_ICGC_PA93_s_120626_6a	THR19	Homo sapiens
+THR19_0474_S01	glioma	4	Yes, age < 30 years	female	icgc/_EGAR00001124567_RNA-seq_PAIRED_ICGC_PA94_s_120626_4a	EGAR00001124567_RNA-seq_PAIRED_ICGC_PA94_s_120626_4a	THR19	Homo sapiens
+THR19_0475_S01	glioma	15	Yes, age < 30 years	female	icgc/_EGAR00001124570_RNA-seq_PAIRED_ICGC_PA96_s_120626_5c	EGAR00001124570_RNA-seq_PAIRED_ICGC_PA96_s_120626_5c	THR19	Homo sapiens
+THR19_0476_S01	glioma	9	Yes, age < 30 years	male	icgc/_EGAR00001124573_RNA-seq_PAIRED_ICGC_PA99_s_120626_6c	EGAR00001124573_RNA-seq_PAIRED_ICGC_PA99_s_120626_6c	THR19	Homo sapiens
+THR19_0477_S01	glioma	15	Yes, age < 30 years	female	icgc/_EGAR00001124574_RNA-seq_PAIRED_ICGC_PA9_s_120816_5b	EGAR00001124574_RNA-seq_PAIRED_ICGC_PA9_s_120816_5b	THR19	Homo sapiens
+THR19_0478_S01	glioma	9	Yes, age < 30 years	male	icgc/EGAD00001000617_ICGC_PA84_RNA-seq	icgc/EGAD00001000617_ICGC_PA84_RNA-seq	THR19	Homo sapiens
+THR19_0479_S01	glioma	4	Yes, age < 30 years	female	icgc/EGAD00001000617_ICGC_PA87_RNA-seq	icgc/EGAD00001000617_ICGC_PA87_RNA-seq	THR19	Homo sapiens
+THR19_0480_S01	glioma	7	Yes, age < 30 years	female	icgc/EGAD00001000617_ICGC_PA95_RNA-seq	icgc/EGAD00001000617_ICGC_PA95_RNA-seq	THR19	Homo sapiens
+THR21_0520_S01	glioblastoma multiforme	17	Yes, age < 30 years	female	icgc/_EGAR00001415737_RNA_PAIRED_ICGC_GBM15_tumor_SN935_0182_B_C2UKHACXXs_131105_1	EGAR00001415737_RNA_PAIRED_ICGC_GBM15_tumor_SN935_0182_B_C2UKHACXXs_131105_1	THR21	Homo sapiens
+THR21_0521_S01	glioblastoma multiforme	11	Yes, age < 30 years	male	icgc/_EGAR00001415749_RNA_PAIRED_ICGC_GBM24_tumor_SN935_0169_B_D2335ACXXs_130809_5	EGAR00001415749_RNA_PAIRED_ICGC_GBM24_tumor_SN935_0169_B_D2335ACXXs_130809_5	THR21	Homo sapiens
+THR21_0522_S01	glioblastoma multiforme	13	Yes, age < 30 years	male	icgc/_EGAR00001415750_RNA_PAIRED_ICGC_GBM25_tumor_SN935_0169_B_D2335ACXXs_130809_6	EGAR00001415750_RNA_PAIRED_ICGC_GBM25_tumor_SN935_0169_B_D2335ACXXs_130809_6	THR21	Homo sapiens
+THR21_0523_S01	glioblastoma multiforme	NA	Yes, age < 30 years	female	icgc/_EGAR00001415751_RNA_PAIRED_ICGC_GBM26_tumor_SN935_0169_B_D2335ACXXs_130809_7	EGAR00001415751_RNA_PAIRED_ICGC_GBM26_tumor_SN935_0169_B_D2335ACXXs_130809_7	THR21	Homo sapiens
+THR21_0524_S01	glioblastoma multiforme	8	Yes, age < 30 years	male	icgc/_EGAR00001415752_RNA_PAIRED_ICGC_GBM27_tumor_SN935_0182_B_C2UKHACXXs_131105_2	EGAR00001415752_RNA_PAIRED_ICGC_GBM27_tumor_SN935_0182_B_C2UKHACXXs_131105_2	THR21	Homo sapiens
+THR21_0525_S01	glioblastoma multiforme	4	Yes, age < 30 years	female	icgc/_EGAR00001415753_RNA_PAIRED_ICGC_GBM28_tumor_SN935_0182_B_C2UKHACXXs_131105_3	EGAR00001415753_RNA_PAIRED_ICGC_GBM28_tumor_SN935_0182_B_C2UKHACXXs_131105_3	THR21	Homo sapiens
+THR21_0526_S01	glioblastoma multiforme	7	Yes, age < 30 years	female	icgc/_EGAR00001415754_RNA_PAIRED_ICGC_GBM32_tumor_SN935_0182_B_C2UKHACXXs_131105_5	EGAR00001415754_RNA_PAIRED_ICGC_GBM32_tumor_SN935_0182_B_C2UKHACXXs_131105_5	THR21	Homo sapiens
+THR21_0527_S01	glioblastoma multiforme	27	Yes, age < 30 years	male	icgc/_EGAR00001415755_RNA_PAIRED_ICGC_GBM33_tumor_SN935_0182_B_C2UKHACXXs_131105_6	EGAR00001415755_RNA_PAIRED_ICGC_GBM33_tumor_SN935_0182_B_C2UKHACXXs_131105_6	THR21	Homo sapiens
+THR21_0528_S01	glioblastoma multiforme	1	Yes, age < 30 years	male	icgc/_EGAR00001415756_RNA_PAIRED_ICGC_GBM34_tumor_SN935_0182_B_C2UKHACXXs_131105_7	EGAR00001415756_RNA_PAIRED_ICGC_GBM34_tumor_SN935_0182_B_C2UKHACXXs_131105_7	THR21	Homo sapiens
+THR21_0530_S01	glioblastoma multiforme	8	Yes, age < 30 years	female	icgc/_EGAR00001415758_RNA_PAIRED_ICGC_GBM38_tumor_SN546_0224_B_C2U5JACXXs_131127_1	EGAR00001415758_RNA_PAIRED_ICGC_GBM38_tumor_SN546_0224_B_C2U5JACXXs_131127_1	THR21	Homo sapiens
+THR21_0531_S01	astrocytoma	NA	Yes, age < 30 years	unknown	icgc/_EGAR00001415759_RNA_PAIRED_ICGC_GBM39_tumor_SN546_0224_B_C2U5JACXXs_131127_2	EGAR00001415759_RNA_PAIRED_ICGC_GBM39_tumor_SN546_0224_B_C2U5JACXXs_131127_2	THR21	Homo sapiens
+THR21_0532_S01	glioblastoma multiforme	6	Yes, age < 30 years	male	icgc/_EGAR00001415760_RNA_PAIRED_ICGC_GBM4_tumor_SN546_0221_B_C2TB7ACXXs_131022_8	EGAR00001415760_RNA_PAIRED_ICGC_GBM4_tumor_SN546_0221_B_C2TB7ACXXs_131022_8	THR21	Homo sapiens
+THR21_0532_S02	glioblastoma multiforme	6	Yes, age < 30 years	male	icgc/_EGAR00001415760_RNA_PAIRED_ICGC_GBM4_tumor_SN546_0221_B_C2TB7ACXXs_131022_8	EGAR00001415757_RNA_PAIRED_ICGC_GBM36_tumor_SN935_0182_B_C2UKHACXXs_131105_8	THR21	Homo sapiens
+THR21_0532_S03	glioblastoma multiforme	6	Yes, age < 30 years	male	icgc/_EGAR00001415760_RNA_PAIRED_ICGC_GBM4_tumor_SN546_0221_B_C2TB7ACXXs_131022_8	EGAR00001415763_RNA_PAIRED_ICGC_GBM49_tumor_SN546_0255_A_C5R5YACXXs_141028_6	THR21	Homo sapiens
+THR21_0533_S01	astrocytoma	NA	Yes, age < 30 years	unknown	icgc/_EGAR00001415761_RNA_PAIRED_ICGC_GBM40_tumor_SN546_0224_B_C2U5JACXXs_131127_4	EGAR00001415761_RNA_PAIRED_ICGC_GBM40_tumor_SN546_0224_B_C2U5JACXXs_131127_4	THR21	Homo sapiens
+THR21_0534_S01	astrocytoma	NA	Yes, age < 30 years	unknown	icgc/_EGAR00001415762_RNA_PAIRED_ICGC_GBM41_tumor_SN546_0224_B_C2U5JACXXs_131127_3	EGAR00001415762_RNA_PAIRED_ICGC_GBM41_tumor_SN546_0224_B_C2U5JACXXs_131127_3	THR21	Homo sapiens
+THR21_0537_S01	glioblastoma multiforme	4	Yes, age < 30 years	male	icgc/_EGAR00001415767_RNA_PAIRED_ICGC_GBM52_tumor_SN546_0234_A_C3G07ACXXs_140411_3	EGAR00001415767_RNA_PAIRED_ICGC_GBM52_tumor_SN546_0234_A_C3G07ACXXs_140411_3	THR21	Homo sapiens
+THR21_0538_S01	glioblastoma multiforme	5	Yes, age < 30 years	female	icgc/_EGAR00001415768_RNA_PAIRED_ICGC_GBM53_tumor_SN546_0234_A_C3G07ACXXs_140411_4	EGAR00001415768_RNA_PAIRED_ICGC_GBM53_tumor_SN546_0234_A_C3G07ACXXs_140411_4	THR21	Homo sapiens
+THR21_0539_S01	glioblastoma multiforme	12	Yes, age < 30 years	male	icgc/_EGAR00001415769_RNA_PAIRED_ICGC_GBM56_tumor_SN546_0255_A_C5R5YACXXs_141028_7	EGAR00001415769_RNA_PAIRED_ICGC_GBM56_tumor_SN546_0255_A_C5R5YACXXs_141028_7	THR21	Homo sapiens
+THR21_0540_S01	glioblastoma multiforme	14	Yes, age < 30 years	male	icgc/_EGAR00001415770_RNA_PAIRED_ICGC_GBM57_tumor_SN546_0234_A_C3G07ACXXs_140411_6	EGAR00001415770_RNA_PAIRED_ICGC_GBM57_tumor_SN546_0234_A_C3G07ACXXs_140411_6	THR21	Homo sapiens
+THR21_0541_S01	glioblastoma multiforme	9	Yes, age < 30 years	male	icgc/_EGAR00001415771_RNA_PAIRED_ICGC_GBM58_tumor_SN546_0234_A_C3G07ACXXs_140411_7	EGAR00001415771_RNA_PAIRED_ICGC_GBM58_tumor_SN546_0234_A_C3G07ACXXs_140411_7	THR21	Homo sapiens
+THR21_0542_S01	glioblastoma multiforme	17	Yes, age < 30 years	female	icgc/_EGAR00001415772_RNA_PAIRED_ICGC_GBM59_tumor_SN546_0234_A_C3G07ACXXs_140411_8	EGAR00001415772_RNA_PAIRED_ICGC_GBM59_tumor_SN546_0234_A_C3G07ACXXs_140411_8	THR21	Homo sapiens
+THR21_0543_S01	glioblastoma multiforme	15	Yes, age < 30 years	female	icgc/_EGAR00001415775_RNA_PAIRED_ICGC_GBM60_tumor_SN546_0235_B_C3NW7ACXXs_140411_1	EGAR00001415775_RNA_PAIRED_ICGC_GBM60_tumor_SN546_0235_B_C3NW7ACXXs_140411_1	THR21	Homo sapiens
+THR21_0544_S01	glioblastoma multiforme	25	Yes, age < 30 years	male	icgc/_EGAR00001415776_RNA_PAIRED_ICGC_GBM62_tumor_SN935_0203_B_C48T1ACXXs_140821_1	EGAR00001415776_RNA_PAIRED_ICGC_GBM62_tumor_SN935_0203_B_C48T1ACXXs_140821_1	THR21	Homo sapiens
+THR21_0545_S01	glioblastoma multiforme	19	Yes, age < 30 years	male	icgc/_EGAR00001415777_RNA_PAIRED_ICGC_GBM63_tumor_SN546_0255_A_C5R5YACXXs_141028_8	EGAR00001415777_RNA_PAIRED_ICGC_GBM63_tumor_SN546_0255_A_C5R5YACXXs_141028_8	THR21	Homo sapiens
+THR21_0546_S01	glioblastoma multiforme	5	Yes, age < 30 years	male	icgc/_EGAR00001415778_RNA_PAIRED_ICGC_GBM65_tumor_SN935_0209_B_C5H9HACXXs_141023_1	EGAR00001415778_RNA_PAIRED_ICGC_GBM65_tumor_SN935_0209_B_C5H9HACXXs_141023_1	THR21	Homo sapiens
+THR21_0547_S01	glioblastoma multiforme	16	Yes, age < 30 years	female	icgc/_EGAR00001415780_RNA_PAIRED_ICGC_GBM67_tumor_SN935_0209_B_C5H9HACXXs_141023_3	EGAR00001415780_RNA_PAIRED_ICGC_GBM67_tumor_SN935_0209_B_C5H9HACXXs_141023_3	THR21	Homo sapiens
+THR21_0548_S01	astrocytoma	NA	Yes, age < 30 years	unknown	icgc/_EGAR00001415783_RNA_PAIRED_ICGC_GBM73_tumor_SN935_0209_B_C5H9HACXXs_141023_4	EGAR00001415783_RNA_PAIRED_ICGC_GBM73_tumor_SN935_0209_B_C5H9HACXXs_141023_4	THR21	Homo sapiens
+THR21_0549_S01	glioblastoma multiforme	12	Yes, age < 30 years	male	icgc/EGAD00001001944_ICGC_GBM1_RNA-seq	EGAD00001001944_ICGC_GBM1_RNA-seq	THR21	Homo sapiens
+THR21_0550_S01	glioblastoma multiforme	12	Yes, age < 30 years	male	icgc/EGAD00001001944_ICGC_GBM11_RNA-seq	EGAD00001001944_ICGC_GBM11_RNA-seq	THR21	Homo sapiens
+THR21_0551_S01	glioblastoma multiforme	13	Yes, age < 30 years	male	icgc/EGAD00001001944_ICGC_GBM16_RNA-seq	EGAD00001001944_ICGC_GBM16_RNA-seq	THR21	Homo sapiens
+THR21_0552_S01	glioblastoma multiforme	18	Yes, age < 30 years	female	icgc/EGAD00001001944_ICGC_GBM17_RNA-seq	EGAD00001001944_ICGC_GBM17_RNA-seq	THR21	Homo sapiens
+THR21_0553_S01	glioblastoma multiforme	7	Yes, age < 30 years	female	icgc/EGAD00001001944_ICGC_GBM18_RNA-seq	EGAD00001001944_ICGC_GBM18_RNA-seq	THR21	Homo sapiens
+THR21_0554_S01	glioblastoma multiforme	5	Yes, age < 30 years	female	icgc/EGAD00001001944_ICGC_GBM19_RNA-seq	EGAD00001001944_ICGC_GBM19_RNA-seq	THR21	Homo sapiens
+THR21_0554_S02	glioblastoma multiforme	5	Yes, age < 30 years	female	icgc/EGAD00001001944_ICGC_GBM19_RNA-seq	EGAR00001415766_RNA_PAIRED_ICGC_GBM50_tumor_SN546_0234_A_C3G07ACXXs_140411_1	THR21	Homo sapiens
+THR21_0555_S01	glioblastoma multiforme	24	Yes, age < 30 years	female	icgc/EGAD00001001944_ICGC_GBM2_RNA-seq	EGAD00001001944_ICGC_GBM2_RNA-seq	THR21	Homo sapiens
+THR21_0556_S01	glioblastoma multiforme	13	Yes, age < 30 years	male	icgc/EGAD00001001944_ICGC_GBM5_RNA-seq	EGAD00001001944_ICGC_GBM5_RNA-seq	THR21	Homo sapiens
+THR21_0557_S01	glioblastoma multiforme	14	Yes, age < 30 years	male	icgc/EGAD00001001944_ICGC_GBM6_RNA-seq	EGAD00001001944_ICGC_GBM6_RNA-seq	THR21	Homo sapiens
+THR21_0558_S01	glioblastoma multiforme	28	Yes, age < 30 years	male	icgc/EGAD00001001944_ICGC_GBM7_RNA-seq	EGAD00001001944_ICGC_GBM7_RNA-seq	THR21	Homo sapiens
+THR21_0559_S01	glioblastoma multiforme	8	Yes, age < 30 years	male	icgc/EGAD00001001944_ICGC_INF_51_RNA-seq	EGAD00001001944_ICGC_INF_51_RNA-seq	THR21	Homo sapiens
+THR21_0560_S01	astrocytoma	NA	Yes, age < 30 years	unknown	icgc/_EGAR00001415784_RNA_PAIRED_ICGC_GBM80_tumor_SN935_0209_B_C5H9HACXXs_141023_8	EGAR00001415784_RNA_PAIRED_ICGC_GBM80_tumor_SN935_0209_B_C5H9HACXXs_141023_8	THR21	Homo sapiens
+TH01_0658_S01	ependymoma	11	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0659_S01	neuroblastoma	4	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0661_S01	diffuse large B-cell lymphoma	13	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0662_S01	rhabdomyosarcoma	1	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0663_S01	acute myeloid leukemia	18	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0664_S01	acute myeloid leukemia	12	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0665_S01	essential thrombocythemia	25	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0666_S01	acute lymphoblastic leukemia	17	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0666_S02	acute lymphoblastic leukemia	17	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0666_S03	acute lymphoblastic leukemia	17	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0667_S01	lymphoma	4	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0667_S02	lymphoma	4	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0668_S01	neuroblastoma	5	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0669_S01	ependymoma	8.4	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0670_S01	Langerhans cell histiocytosis	4.8	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0671_S01	Ewing sarcoma	12	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0672_S01	synovial sarcoma	15	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0673_S01	wilms tumor	3	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0674_S01	oligodendroglioma	10	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0675_S01	wilms tumor	3	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0676_S01	neuroblastoma with solid-papillary neoplasm of the pancreas	14	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0676_S02	neuroblastoma with solid-papillary neoplasm of the pancreas	14	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0677_S01	wilms tumor	5	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0678_S01	gastrointestinal stromal tumor	10	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0679_S01	neuroblastoma	2	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0679_S02	neuroblastoma	2	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0680_S01	atypical teratoid/rhabdoid tumor	1	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0681_S01	sarcoma	12	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0681_S02	sarcoma	12	Yes, age < 30 years	male	N/A	N/A	TH01	Homo sapiens
+TH01_0706_S01	NA	NA	NA	NA	N/A	N/A	TH01	Homo sapiens
+TH01_0707_S01	NA	NA	NA	NA	N/A	N/A	TH01	Homo sapiens
+TH01_0708_S01	NA	NA	NA	NA	N/A	N/A	TH01	Homo sapiens
+TH01_0709_S01	NA	NA	NA	NA	N/A	N/A	TH01	Homo sapiens
+TH01_0709_S02	NA	NA	NA	NA	N/A	N/A	TH01	Homo sapiens
+TH01_0710_S01	neuroblastoma	5	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0711_S01	NA	NA	NA	NA	N/A	N/A	TH01	Homo sapiens
+TH01_0712_S01	NA	NA	NA	NA	N/A	N/A	TH01	Homo sapiens
+TH01_0713_S01	recurrence of metastatic medulloblastoma	2	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0714_S01	NA	NA	NA	NA	N/A	N/A	TH01	Homo sapiens
+TH01_0715_S01	glioma	14	Yes, age < 30 years	female	N/A	N/A	TH01	Homo sapiens
+TH01_0716_S01	NA	NA	NA	NA	N/A	N/A	TH01	Homo sapiens
+TH01_0718_S01	NA	NA	NA	NA	N/A	N/A	TH01	Homo sapiens
+TARGET-51-PAEALX-01	clear cell sarcoma of the kidney	1	Yes, age < 30 years	male	TARGET-51-PAEALX	TARGET-51-PAEALX-01	TARGET	Homo sapiens
+TARGET-51-PAJLIV-01	clear cell sarcoma of the kidney	0.65	Yes, age < 30 years	male	TARGET-51-PAJLIV	TARGET-51-PAJLIV-01	TARGET	Homo sapiens
+TARGET-51-PAJLWU-01	clear cell carcinoma of the kidney	1.56	Yes, age < 30 years	male	TARGET-51-PAJLWU	TARGET-51-PAJLWU-01	TARGET	Homo sapiens
+TARGET-51-PAJMFS-01	clear cell sarcoma of the kidney	2.6	Yes, age < 30 years	male	TARGET-51-PAJMFS	TARGET-51-PAJMFS-01	TARGET	Homo sapiens
+TARGET-51-PAJMNM-01	clear cell sarcoma of the kidney	1.3	Yes, age < 30 years	male	TARGET-51-PAJMNM	TARGET-51-PAJMNM-01	TARGET	Homo sapiens
+TARGET-51-PAJNCV-01	clear cell sarcoma of the kidney	3.05	Yes, age < 30 years	male	TARGET-51-PAJNCV	TARGET-51-PAJNCV-01	TARGET	Homo sapiens
+TARGET-51-PAJPFB-01	clear cell sarcoma of the kidney	1.38	Yes, age < 30 years	male	TARGET-51-PAJPFB	TARGET-51-PAJPFB-01	TARGET	Homo sapiens
+TARGET-51-PAKWMM-01	clear cell sarcoma of the kidney	0.69	Yes, age < 30 years	male	TARGET-51-PAKWMM	TARGET-51-PAKWMM-01	TARGET	Homo sapiens
+TARGET-51-PALEIR-01	clear cell sarcoma of the kidney	1.26	Yes, age < 30 years	male	TARGET-51-PALEIR	TARGET-51-PALEIR-01	TARGET	Homo sapiens
+TARGET-51-PALFEF-01	clear cell carcinoma of the kidney	1.63	Yes, age < 30 years	male	TARGET-51-PALFEF	TARGET-51-PALFEF-01	TARGET	Homo sapiens
+TARGET-51-PALFYG-01	clear cell sarcoma of the kidney	0.7	Yes, age < 30 years	male	TARGET-51-PALFYG	TARGET-51-PALFYG-01	TARGET	Homo sapiens
+TARGET-51-PALKEI-01	clear cell sarcoma of the kidney	2.86	Yes, age < 30 years	male	TARGET-51-PALKEI	TARGET-51-PALKEI-01	TARGET	Homo sapiens
+TARGET-51-PALLXV-01	clear cell sarcoma of the kidney	1.27	Yes, age < 30 years	male	TARGET-51-PALLXV	TARGET-51-PALLXV-01	TARGET	Homo sapiens
